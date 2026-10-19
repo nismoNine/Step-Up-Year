@@ -2,8 +2,6 @@
 
 A friendly catch-up app for children ages 5–10 who are behind in reading, writing and numbers. The goal is to help them move forward one small step at a time. It is a single `index.html` file with plain HTML, CSS and JavaScript, so there is nothing to install or build.
 
-**Live site:** https://YOUR-USERNAME.github.io/step-up-year/
-
 ## What's inside
 - 5 lands, 3 sections each, 5 short lessons per section (75 lessons)
 - Ollie the owl: speaks instructions, shows captions, highlights words as they are spoken
